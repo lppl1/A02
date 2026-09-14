@@ -9,26 +9,27 @@ IS117 || FALL2026
 5.
 
 ---Glossary--
-Branch -
 
-Clone -
+**Branch** -
 
-Commit -
+**Clone** -
 
-Fetch -
+**Commit** -
 
-GIT -
+**Fetch** -
 
-Github -
+**GIT** -
 
-Merge -
+**Github** -
 
-Merge Conflict -
+**Merge** -
 
-Push -
+**Merge Conflict** -
 
-Pull -
+**Push** -
 
-Remote -
+**Pull** -
 
-Repository -
+**Remote** -
+
+**Repository** -
