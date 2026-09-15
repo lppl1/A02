@@ -23,9 +23,17 @@ IS117 || FALL2026
 19. Click *File*, then *Open Folder*
 20. Select the A02 folder
 21. Open a terminal inside VS Code by clicking *Terminal,* then *New Terminal,* then selecting *bash*
-22. 
-23.
-24.
+22. Set your Git username with *git config user.name "yourname"*
+23. Set your Git email with *git config user.email "youremail@whatever.com"* (Microsoft, 2026a; Microsoft, 2026b)
+24. Open the *README.md* in the file explorer
+25. Edit the file and add some text like *gitignore*
+26. Save the file (either manually or with *CTRL + S*)
+27. Stage your changes *git add .* (Microsoft, 2026a)
+28. Commit your changes *git commit -m "whatever message you would like"* (Microsoft, 2026a; Hendela, 2020)
+29. Push your commit to GitHub with *git push origin main* (Microsoft, 2026a; Hendela, 2020)
+30. Go to your repo page on GitHub
+31. Refresh the page
+32. Confirm that your edited README.md now shows the changes (Hendela, 2020)
 
 ---Glossary--
 
