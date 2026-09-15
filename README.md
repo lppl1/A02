@@ -65,9 +65,9 @@ IS117 || FALL2026
 
 Git. (n.d.). *gitglossary*. https://git-scm.com/docs/gitglossary
 
-Hendela, A. H. (2019). *Introduction to GitHub and WebStorm*. NJIT, IS117.
+Hendela, A. H. (2019). *Introduction to GitHub and WebStorm* [PowerPoint slides]. NJIT, IS117.
 
-Hendela, A. H. (2020). *Additional instructions on creating a Git and GitHub repository*. NJIT.
+Hendela, A. H. (2020). *Additional instructions on creating a Git and GitHub repository* [PowerPoint slides]. NJIT.
 
 Microsoft. (2026a). *Source control in VS Code*. https://code.visualstudio.com/docs/sourcecontrol/overview
 
