@@ -35,7 +35,7 @@ IS117 || FALL2026
 31. Refresh the page
 32. Confirm that your edited README.md now shows the changes (Hendela, 2020)
 
----Glossary--
+---Glossary---
 
 **Branch** - a separate line of development within a repository (Git, n.d.)
 
@@ -62,6 +62,7 @@ IS117 || FALL2026
 **Repository** - a folder tracked by Git containing a project's files and history (Hendela, 2019)
 
 ---References---
+
 Git. (n.d.). *gitglossary*. https://git-scm.com/docs/gitglossary
 
 Hendela, A. H. (2019). *Introduction to GitHub and WebStorm* [PowerPoint slides]. NJIT, IS117.
