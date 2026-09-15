@@ -24,9 +24,9 @@ IS117 || FALL2026
 20. Select the A02 folder
 21. Open a terminal inside VS Code by clicking *Terminal,* then *New Terminal,* then selecting *bash*
 22. Set your Git username with *git config user.name "yourname"*
-23. Set your Git email with *git config user.email "youremail@whatever.com"* (Microsoft, 2026a; Microsoft, 2026b)
+23. Set your Git email with *git config user.email "your@email.com"* (Microsoft, 2026a; Microsoft, 2026b)
 24. Open the *README.md* in the file explorer
-25. Edit the file and add some text like *gitignore*
+25. Edit the file and add some text like a project description
 26. Save the file (either manually or with *CTRL + S*)
 27. Stage your changes *git add .* (Microsoft, 2026a)
 28. Commit your changes *git commit -m "whatever message you would like"* (Microsoft, 2026a; Hendela, 2020)
@@ -65,7 +65,7 @@ IS117 || FALL2026
 
 Git. (n.d.). *gitglossary*. https://git-scm.com/docs/gitglossary
 
-Hendela, A. H. (2019). *Introduction to GitHub and WebStorm* [PowerPoint slides]. NJIT, IS117.
+Hendela, A. H. (2019). *Introduction to GitHub and WebStorm*. NJIT, IS117.
 
 Hendela, A. H. (2020). *Additional instructions on creating a Git and GitHub repository*. NJIT.
 
