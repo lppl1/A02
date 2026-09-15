@@ -51,15 +51,15 @@ IS117 || FALL2026
 
 **Merge** - combines changes from one branch to another (Git, n.d.)
 
-**Merge Conflict** -
+**Merge Conflict** - is a conflict that occurs when Git can't automatically reconcile differing changes (Git, n.d.)
 
-**Push** -
+**Push** - uploads local commits to a remote repository; like from VS Code to Github (Hendela, 2020)
 
-**Pull** -
+**Pull** - downloads and merges changes from a remote repository (Git, n.d.)
 
-**Remote** -
+**Remote** - is a version of a repository hosted elsewhere, such as on GitHub (Hendela, 2020)
 
-**Repository** -
+**Repository** - a folder tracked by Git containing a project's files and history (Hendela, 2019)
 
 ---References---
 Git. (n.d.). *gitglossary*. https://git-scm.com/docs/gitglossary
