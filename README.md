@@ -37,19 +37,19 @@ IS117 || FALL2026
 
 ---Glossary--
 
-**Branch** -
+**Branch** - a separate line of development within a repository (Git, n.d.)
 
-**Clone** -
+**Clone** - downloading a copy of a remote repository to your local machine (Git, n.d.)
 
-**Commit** -
+**Commit** - saving a snapshot of staged changes with a message (Hendela, 2020)
+ 
+**Fetch** - downloading the changes from a remote repository without merging them (Git, n.d.)
 
-**Fetch** -
+**GIT** - is an open source version control system used to track changes to source code (Hendela, 2019)
 
-**GIT** -
+**Github** - is an online platform for hosting Git repositories (Hendela, 2019)
 
-**Github** -
-
-**Merge** -
+**Merge** - combines changes from one branch to another (Git, n.d.)
 
 **Merge Conflict** -
 
