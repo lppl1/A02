@@ -6,7 +6,12 @@ IS117 || FALL2026
 2. Run the installer and accept the default settings (Microsoft, 2026a)
 3. Open a terminal (Git Bash on Windows) to confirm install with "git --version" 
 4. Go to https://code.visualstudio.com/ and download VS Code
-5.
+5. Run the VS Code installer with the default settings
+6. Go to https://github.com/signup and create a free GitHub account (Hendela, 2019; Microsoft, 2026b)
+7. On GitHub, click the + icon in the top-right corner
+8. Select *New Repository*
+9. Name the repository *A02*
+10.
 
 ---Glossary--
 
